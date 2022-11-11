@@ -13,6 +13,11 @@ Q3. List some pros and cons of Python programming language?
 Q4. In what all domains can we use Python?
 
 Q5. What are variable and how can we declare them?
+  Int - Number
+  String - One Word or Sentence, which should be enclosed inside the double quotes
+  float - Decimal Number
+  boolean - True or false
+  Note : In Python it is not neccessary to add the datatypes will declaring, it is smart to find it 
 
 Q6. How can we take an input from the user in Python?
 
